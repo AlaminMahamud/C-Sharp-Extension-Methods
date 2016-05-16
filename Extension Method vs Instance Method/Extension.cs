@@ -1,5 +1,5 @@
-namespace Extensions
-{
+namespace Extensions{
+
 	using System;
 	using DefineIMyInterface;
 
